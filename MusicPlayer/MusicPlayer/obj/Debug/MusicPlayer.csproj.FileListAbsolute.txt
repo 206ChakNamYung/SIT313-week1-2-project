@@ -1,2 +1,97 @@
-C:\Users\lenovo\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csprojAssemblyReference.cache
-C:\Users\lenovo\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+/Users/cnyung/Desktop/MusicPlayer/MusicPlayer/bin/Debug/MusicPlayer.dll
+/Users/cnyung/Desktop/MusicPlayer/MusicPlayer/bin/Debug/MusicPlayer.pdb
+/Users/cnyung/Desktop/MusicPlayer/MusicPlayer/bin/Debug/com.companyname.musicplayer.apk
+/Users/cnyung/Desktop/MusicPlayer/MusicPlayer/bin/Debug/com.companyname.musicplayer-Signed.apk
+/Users/cnyung/Desktop/MusicPlayer/MusicPlayer/bin/Debug/Xamarin.Android.Support.v4.dll
+/Users/cnyung/Desktop/MusicPlayer/MusicPlayer/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/cnyung/Desktop/MusicPlayer/MusicPlayer/obj/Debug/MusicPlayer.csprojResolveAssemblyReference.cache
+/Users/cnyung/Desktop/MusicPlayer/MusicPlayer/obj/Debug/MusicPlayer.csproj.CoreCompileInputs.cache
+/Users/cnyung/Desktop/MusicPlayer/MusicPlayer/obj/Debug/MusicPlayer.dll
+/Users/cnyung/Desktop/MusicPlayer/MusicPlayer/obj/Debug/MusicPlayer.pdb
+/Users/cnyung/Desktop/MusicPlayer/MusicPlayer/obj/Debug/android/bin/com.companyname.musicplayer.apk
+/Users/cnyung/Desktop/MusicPlayer/MusicPlayer/obj/Debug/res/layout/main.xml
+/Users/cnyung/Desktop/MusicPlayer/MusicPlayer/obj/Debug/res/values/strings.xml
+/Users/cnyung/Desktop/MusicPlayer/MusicPlayer/obj/Debug/res/mipmap-hdpi/icon.png
+/Users/cnyung/Desktop/MusicPlayer/MusicPlayer/obj/Debug/res/mipmap-mdpi/icon.png
+/Users/cnyung/Desktop/MusicPlayer/MusicPlayer/obj/Debug/res/mipmap-xhdpi/icon.png
+/Users/cnyung/Desktop/MusicPlayer/MusicPlayer/obj/Debug/res/mipmap-xxhdpi/icon.png
+/Users/cnyung/Desktop/MusicPlayer/MusicPlayer/obj/Debug/res/mipmap-xxxhdpi/icon.png
+/Users/cnyung/Desktop/MusicPlayer/MusicPlayer/obj/Debug/res/raw/bensound_acousticbreeze.mp3
+/Users/cnyung/Desktop/MusicPlayer/MusicPlayer/obj/Debug/res/raw/bensound_buddy.mp3
+/Users/cnyung/Desktop/MusicPlayer/MusicPlayer/obj/Debug/res/raw/bensound_cute.mp3
+/Users/cnyung/Desktop/MusicPlayer/MusicPlayer/obj/Debug/res/raw/bensound_dubstep.mp3
+/Users/cnyung/Desktop/MusicPlayer/MusicPlayer/obj/Debug/res/raw/bensound_epic.mp3
+/Users/cnyung/Desktop/MusicPlayer/MusicPlayer/obj/Debug/res/raw/bensound_funnysong.mp3
+/Users/cnyung/Desktop/MusicPlayer/MusicPlayer/obj/Debug/res/raw/bensound_happiness.mp3
+/Users/cnyung/Desktop/MusicPlayer/MusicPlayer/obj/Debug/res/raw/bensound_littleidea.mp3
+/Users/cnyung/Desktop/MusicPlayer/MusicPlayer/obj/Debug/res/layout/layoutt.xml
+/Users/cnyung/Desktop/MusicPlayer/MusicPlayer/obj/Debug/R.cs.flag
+/Users/cnyung/Desktop/MusicPlayer/MusicPlayer/obj/Debug/uploadflags.txt
+/Users/darkeung/Desktop/untitled folder 3/MusicPlayer/MusicPlayer/bin/Debug/MusicPlayer.dll
+/Users/darkeung/Desktop/untitled folder 3/MusicPlayer/MusicPlayer/bin/Debug/MusicPlayer.pdb
+/Users/darkeung/Desktop/untitled folder 3/MusicPlayer/MusicPlayer/bin/Debug/com.companyname.musicplayer.apk
+/Users/darkeung/Desktop/untitled folder 3/MusicPlayer/MusicPlayer/bin/Debug/com.companyname.musicplayer-Signed.apk
+/Users/darkeung/Desktop/untitled folder 3/MusicPlayer/MusicPlayer/bin/Debug/Xamarin.Android.Support.v4.dll
+/Users/darkeung/Desktop/untitled folder 3/MusicPlayer/MusicPlayer/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/darkeung/Desktop/untitled folder 3/MusicPlayer/MusicPlayer/obj/Debug/MusicPlayer.csproj.CoreCompileInputs.cache
+/Users/darkeung/Desktop/untitled folder 3/MusicPlayer/MusicPlayer/obj/Debug/MusicPlayer.dll
+/Users/darkeung/Desktop/untitled folder 3/MusicPlayer/MusicPlayer/obj/Debug/MusicPlayer.pdb
+/Users/darkeung/Desktop/untitled folder 3/MusicPlayer/MusicPlayer/obj/Debug/android/bin/com.companyname.musicplayer.apk
+/Users/darkeung/Desktop/untitled folder 3/MusicPlayer/MusicPlayer/obj/Debug/res/layout/main.xml
+/Users/darkeung/Desktop/untitled folder 3/MusicPlayer/MusicPlayer/obj/Debug/res/values/strings.xml
+/Users/darkeung/Desktop/untitled folder 3/MusicPlayer/MusicPlayer/obj/Debug/res/mipmap-hdpi/icon.png
+/Users/darkeung/Desktop/untitled folder 3/MusicPlayer/MusicPlayer/obj/Debug/res/mipmap-mdpi/icon.png
+/Users/darkeung/Desktop/untitled folder 3/MusicPlayer/MusicPlayer/obj/Debug/res/mipmap-xhdpi/icon.png
+/Users/darkeung/Desktop/untitled folder 3/MusicPlayer/MusicPlayer/obj/Debug/res/mipmap-xxhdpi/icon.png
+/Users/darkeung/Desktop/untitled folder 3/MusicPlayer/MusicPlayer/obj/Debug/res/mipmap-xxxhdpi/icon.png
+/Users/darkeung/Desktop/untitled folder 3/MusicPlayer/MusicPlayer/obj/Debug/res/raw/bensound_acousticbreeze.mp3
+/Users/darkeung/Desktop/untitled folder 3/MusicPlayer/MusicPlayer/obj/Debug/res/raw/bensound_buddy.mp3
+/Users/darkeung/Desktop/untitled folder 3/MusicPlayer/MusicPlayer/obj/Debug/res/raw/bensound_cute.mp3
+/Users/darkeung/Desktop/untitled folder 3/MusicPlayer/MusicPlayer/obj/Debug/res/raw/bensound_dubstep.mp3
+/Users/darkeung/Desktop/untitled folder 3/MusicPlayer/MusicPlayer/obj/Debug/res/raw/bensound_epic.mp3
+/Users/darkeung/Desktop/untitled folder 3/MusicPlayer/MusicPlayer/obj/Debug/res/raw/bensound_funnysong.mp3
+/Users/darkeung/Desktop/untitled folder 3/MusicPlayer/MusicPlayer/obj/Debug/res/raw/bensound_happiness.mp3
+/Users/darkeung/Desktop/untitled folder 3/MusicPlayer/MusicPlayer/obj/Debug/res/raw/bensound_littleidea.mp3
+/Users/darkeung/Desktop/untitled folder 3/MusicPlayer/MusicPlayer/obj/Debug/res/layout/layoutt.xml
+/Users/darkeung/Desktop/untitled folder 3/MusicPlayer/MusicPlayer/obj/Debug/R.cs.flag
+/Users/darkeung/Desktop/untitled folder 3/MusicPlayer/MusicPlayer/obj/Debug/R.txt
+/Users/darkeung/Desktop/untitled folder 3/MusicPlayer/MusicPlayer/obj/Debug/uploadflags.txt
+/Users/darkeung/Desktop/untitled folder 3/MusicPlayer/MusicPlayer/obj/Debug/MusicPlayer.csprojResolveAssemblyReference.cache
+/Users/darkeung/Desktop/untitled folder 3/MusicPlayer/MusicPlayer/bin/Debug/Mono.Android.pdb
+/Users/darkeung/Desktop/untitled folder 3/MusicPlayer/MusicPlayer/obj/Debug/linksrc/MusicPlayer.pdb
+/Users/darkeung/Desktop/untitled folder 3/MusicPlayer/MusicPlayer/obj/Debug/linksrc/Mono.Android.pdb
+/Users/cnyung/Desktop/Chak Nam Yung/MusicPlayer/MusicPlayer/bin/Debug/MusicPlayer.dll
+/Users/cnyung/Desktop/Chak Nam Yung/MusicPlayer/MusicPlayer/bin/Debug/MusicPlayer.pdb
+/Users/cnyung/Desktop/Chak Nam Yung/MusicPlayer/MusicPlayer/bin/Debug/com.companyname.musicplayer.apk
+/Users/cnyung/Desktop/Chak Nam Yung/MusicPlayer/MusicPlayer/bin/Debug/com.companyname.musicplayer-Signed.apk
+/Users/cnyung/Desktop/Chak Nam Yung/MusicPlayer/MusicPlayer/bin/Debug/Xamarin.Android.Support.v4.dll
+/Users/cnyung/Desktop/Chak Nam Yung/MusicPlayer/MusicPlayer/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/cnyung/Desktop/Chak Nam Yung/MusicPlayer/MusicPlayer/obj/Debug/MusicPlayer.csprojResolveAssemblyReference.cache
+/Users/cnyung/Desktop/Chak Nam Yung/MusicPlayer/MusicPlayer/obj/Debug/MusicPlayer.csproj.CoreCompileInputs.cache
+/Users/cnyung/Desktop/Chak Nam Yung/MusicPlayer/MusicPlayer/obj/Debug/MusicPlayer.dll
+/Users/cnyung/Desktop/Chak Nam Yung/MusicPlayer/MusicPlayer/obj/Debug/MusicPlayer.pdb
+/Users/cnyung/Desktop/Chak Nam Yung/MusicPlayer/MusicPlayer/obj/Debug/android/bin/com.companyname.musicplayer.apk
+/Users/cnyung/Desktop/Chak Nam Yung/MusicPlayer/MusicPlayer/obj/Debug/res/layout/main.xml
+/Users/cnyung/Desktop/Chak Nam Yung/MusicPlayer/MusicPlayer/obj/Debug/res/values/strings.xml
+/Users/cnyung/Desktop/Chak Nam Yung/MusicPlayer/MusicPlayer/obj/Debug/res/mipmap-hdpi/icon.png
+/Users/cnyung/Desktop/Chak Nam Yung/MusicPlayer/MusicPlayer/obj/Debug/res/mipmap-mdpi/icon.png
+/Users/cnyung/Desktop/Chak Nam Yung/MusicPlayer/MusicPlayer/obj/Debug/res/mipmap-xhdpi/icon.png
+/Users/cnyung/Desktop/Chak Nam Yung/MusicPlayer/MusicPlayer/obj/Debug/res/mipmap-xxhdpi/icon.png
+/Users/cnyung/Desktop/Chak Nam Yung/MusicPlayer/MusicPlayer/obj/Debug/res/mipmap-xxxhdpi/icon.png
+/Users/cnyung/Desktop/Chak Nam Yung/MusicPlayer/MusicPlayer/obj/Debug/res/raw/bensound_acousticbreeze.mp3
+/Users/cnyung/Desktop/Chak Nam Yung/MusicPlayer/MusicPlayer/obj/Debug/res/raw/bensound_buddy.mp3
+/Users/cnyung/Desktop/Chak Nam Yung/MusicPlayer/MusicPlayer/obj/Debug/res/raw/bensound_cute.mp3
+/Users/cnyung/Desktop/Chak Nam Yung/MusicPlayer/MusicPlayer/obj/Debug/res/raw/bensound_dubstep.mp3
+/Users/cnyung/Desktop/Chak Nam Yung/MusicPlayer/MusicPlayer/obj/Debug/res/raw/bensound_epic.mp3
+/Users/cnyung/Desktop/Chak Nam Yung/MusicPlayer/MusicPlayer/obj/Debug/res/raw/bensound_funnysong.mp3
+/Users/cnyung/Desktop/Chak Nam Yung/MusicPlayer/MusicPlayer/obj/Debug/res/raw/bensound_happiness.mp3
+/Users/cnyung/Desktop/Chak Nam Yung/MusicPlayer/MusicPlayer/obj/Debug/res/raw/bensound_littleidea.mp3
+/Users/cnyung/Desktop/Chak Nam Yung/MusicPlayer/MusicPlayer/obj/Debug/res/layout/layoutt.xml
+/Users/cnyung/Desktop/Chak Nam Yung/MusicPlayer/MusicPlayer/obj/Debug/res/drawable/music.png
+/Users/cnyung/Desktop/Chak Nam Yung/MusicPlayer/MusicPlayer/obj/Debug/R.cs.flag
+/Users/cnyung/Desktop/Chak Nam Yung/MusicPlayer/MusicPlayer/obj/Debug/uploadflags.txt
+/Users/cnyung/Desktop/Chak Nam Yung/MusicPlayer/MusicPlayer/obj/Debug/res/mipmap-hdpi/music.png
+/Users/cnyung/Desktop/Chak Nam Yung/MusicPlayer/MusicPlayer/obj/Debug/res/mipmap-mdpi/music.png
+/Users/cnyung/Desktop/Chak Nam Yung/MusicPlayer/MusicPlayer/obj/Debug/res/mipmap-xhdpi/music.png
+/Users/cnyung/Desktop/Chak Nam Yung/MusicPlayer/MusicPlayer/obj/Debug/res/mipmap-xxhdpi/music.png
+/Users/cnyung/Desktop/Chak Nam Yung/MusicPlayer/MusicPlayer/obj/Debug/res/mipmap-xxxhdpi/music.png

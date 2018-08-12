@@ -1,63 +1,62 @@
 ﻿using Android.App;
 using Android.Widget;
 using Android.OS;
-
+using Android.Media;
 using System.Collections.Generic;
-using System;
-using Android.Views;
-using Android.Content;
-using static Android.Widget.AdapterView;
-
-using System.Linq;
 
 namespace MusicPlayer
 {
-    [Activity(Label = "Music Player", MainLauncher = true)]
-    public class MainActivity : Activity
-    {
+    [Activity(Label = "MusicPlayer", MainLauncher = false, Icon = "@mipmap/icon")]
+	public class MainActivity : Activity
+	{
+		MediaPlayer player = null;
 
-        private static bool startupCalled = false;
+		protected override void OnCreate(Bundle savedInstanceState)
+		{
+			base.OnCreate(savedInstanceState);
 
-        protected override void OnCreate(Bundle savedInstanceState)
-        {
-            base.OnCreate(savedInstanceState);
+			// Set our view from the "main" layout resource
+			SetContentView(Resource.Layout.Main);
 
-            SetContentView(Resource.Layout.Main);
+			// Get our button from the layout resource,
+			// and attach an event to it
+			List<string> tracks = new List<string>();
 
-            //If the application was just launched.
-            if (!startupCalled)
-            {
+			var fields = typeof(Resource.Raw).GetFields();
 
-                new AppUtil.OnInitalize(this);
-                startupCalled = true;
-            }
+			foreach (var file in fields)
+			{
+				tracks.Add(file.Name);
+			}
 
-            ListView musicList = FindViewById<ListView>(Resource.Id.musicList);
+			var listView = FindViewById<ListView>(Resource.Id.listView1);
 
+			var adapter = new ArrayAdapter(this, Android.Resource.Layout.SimpleListItem1, tracks);
 
-            var songTitles = new SongData().GetList().Select(song => song.GetSongTitle());
+			listView.Adapter = adapter;
 
-            //Populates the listview with the list of song titles.
-            musicList.Adapter = new ArrayAdapter<string>(this, Resource.Layout.List_Music, songTitles.ToList());
+			listView.ItemClick += (sender, e) =>
+			{
+				var item = tracks[e.Position];
+				PlaySong(item);
+			};
+		}
 
-            musicList.TextFilterEnabled = true;
+		public void PlaySong(string name)
+		{
+			var resId = Resources.GetIdentifier(name, "raw", PackageName);
 
-            musicList.ItemClick += OnSongSelected;
-        }
+			if (player != null && player.IsPlaying)
+				player.Stop();
 
-        private void OnSongSelected(object sender, ItemClickEventArgs itemEventArgs)
-        {
-            string songTitle = ((TextView)itemEventArgs.View).Text;
-            Intent intent = new Intent(this, typeof(PlayMusicActivity));
+			player = MediaPlayer.Create(this, resId);
+			player.Completion += delegate
+			{
+				player = null; //Free the memory
+			};
+			player.Start();
+		}
 
- 
-
-            //Sends the Songid to the next activity.
-            intent.PutExtra("SONGID", itemEventArgs.Position);
-
-     
-            intent.PutExtra("FAVORITE", "YES");
-            StartActivity(intent);
-        }
-    }
+	}
 }
+

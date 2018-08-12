@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{0B43C306-24CD-4C8D-8CD6-C03F7D2EBA44}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MusicPlayer/MainActivity.cs">
+    <Files>
+      <File FileName="MusicPlayer/MainActivity.cs" Line="9" Column="58" />
+      <File FileName="MusicPlayer/LayoutActivty.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.MusicPlayer AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Nexus_4_API_26" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
